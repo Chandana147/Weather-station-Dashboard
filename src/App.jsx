@@ -43,7 +43,7 @@ const App = () => {
             Weather Station Dashboard
           </h2>
           <p className="max-w-3xl mx-auto mb-6 text-xl text-white opacity-50 lg:mb-12">
-            A mini weather station dashboard which present
+            A mini weather station dashboard which present users with the current weather details of any city around the world.
           </p>
           {/* Input */}
           <input
